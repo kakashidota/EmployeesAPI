@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesAPI", "EmployeesAPI\EmployeesAPI.csproj", "{E683AF4D-D389-4094-92B0-E13EC3FE4B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoCRUD", "MongoCRUD\MongoCRUD.csproj", "{D2CBE019-1B2E-411D-B032-7D2D74B7509E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E683AF4D-D389-4094-92B0-E13EC3FE4B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E683AF4D-D389-4094-92B0-E13EC3FE4B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E683AF4D-D389-4094-92B0-E13EC3FE4B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E683AF4D-D389-4094-92B0-E13EC3FE4B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CBE019-1B2E-411D-B032-7D2D74B7509E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CBE019-1B2E-411D-B032-7D2D74B7509E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CBE019-1B2E-411D-B032-7D2D74B7509E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CBE019-1B2E-411D-B032-7D2D74B7509E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7B5CECE-B632-46D4-BE60-4D45A5F6DA9C}
+	EndGlobalSection
+EndGlobal
